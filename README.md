@@ -2,4 +2,6 @@
 
 Hi-Humans!
 
-hubot here, i like node.js
+User: ritika
+
+User likes coding!
